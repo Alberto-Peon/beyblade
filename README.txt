@@ -18,14 +18,14 @@ Energía:
 
 Victorias:
 
-* Al que le deberías ganar te llevas un cuarto de su energía (3/6 de
-probabilidad).
+* Al que le deberías ganar te llevas un cuarto de su energía (4/6 de
+probabilidad de ganarle).
 
-* Cuando ganas al que debería ganarte consigues 3/4 de su energía (1/6 de
-probabilidad).
+* Cuando ganas al que debería ganarte consigues 3/4 de su energía (2/6 de
+probabilidad de ganarle).
 
 * Y cuando uno de los dos es de tipo balanceo o sois del mismo tipo se coge la
-mitad de su energía (2/6 de probabilidad).
+mitad de su energía (3/6 de probabilidad de ganarle).
 
 * Y si pierdes es al revés.
 
@@ -66,6 +66,6 @@ hay cuatro niveles:
 
 Copas:
 
-Se consiguen ganando juegos, una por juego ganado.  A las 10 copas consigues su
-mitad de energía la primera vez, luego a las 20, luego a las 30...
+Se consiguen ganando juegos, una por juego ganado. Cada 10 copas consigues un
+multiplicador x2 de energía.
 
