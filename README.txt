@@ -18,8 +18,17 @@ Energía:
 
 Victorias:
 
-* Al que le deberías ganar te llevas un cuarto de su energía (4/6 de
+* Al que le deberías ganar te llevas 1/4 de su energía (4/6 de
 probabilidad de ganarle).
+
+ejemplo:
+jugador A |jugador B
+8         | 8
+Defensa   |duración
+COMBATE gana B
+2         |12
+
+* TODO molaria que cuanta mas energía tengas mas facil es ganar.
 
 * Cuando ganas al que debería ganarte consigues 3/4 de su energía (2/6 de
 probabilidad de ganarle).
